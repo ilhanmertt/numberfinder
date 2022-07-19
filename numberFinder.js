@@ -27,6 +27,7 @@ function run() {
             console.log("Kalan hak", --hak)
             if (hak == 0) {
                 console.log("hakkınız kalmadı")
+                console.log("Cevap",bg)
                 rl.close
             }
             else {
